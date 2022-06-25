@@ -1,6 +1,6 @@
-Hi, I’m @PetroviciNorbert
-–  I’m a scientist researching urban and regional social processes 
-–  I’m heading a research centre on data sciences
-–  I’m based at Babes-Bolyai University in Cluj-Napoca, Romania
-–  I’m looking to collaborate on comparative urban and regional studies
-–  You can reach me Norbert.Petrovici@ubbcluj.ro
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>Hi, I&rsquo;m @PetroviciNorbert</p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>&ndash; I&rsquo;m a scientist researching urban and regional social processes&nbsp;</p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>&ndash; &nbsp;I&rsquo;m heading a research centre on data sciences: Interdisciplinary Centre for Social Sciences&nbsp;</p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>&ndash; &nbsp;I&rsquo;m based at <em>Babes-Bolyai University</em> in Cluj-Napoca, Romania</p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>&ndash; &nbsp;I&rsquo;m looking to collaborate on comparative urban and regional studies</p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:15px;line-height:107%;font-family:"Calibri",sans-serif;'>&ndash; &nbsp;You can reach me Norbert.Petrovici@ubbcluj.ro</span></p>
